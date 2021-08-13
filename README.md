@@ -1,13 +1,19 @@
-## Oiii! Eu sou a Tuany Mariah 
-<img src = "https://komarev.com/ghpvc/?username=tuanymariiah&label=Views&color=blue&style=plastic" alt = "tuanymariiah" />
+### I'm Tuany Mariah 👋
+
+I have an M.Sc  Systems and Computing [in progress], my interess  are  in machine learning, data science and data analysis. 
+
+* :mortar_board: Systems Analysis and Development Degree
+* 😍 **Data Science** passionate.
+* 🔭  I am currently working with semi-supervised learning in databases fake news.
+* 👯  I am looking to colaborate on more public repositores.
 
  <div>
-  <a href="https://github.com/tuanymariiah">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tuanymariiah&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/tuanymariiah"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=tuanymariiah&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuanymariiah&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
-  
+ 
+### 📫 How to reach me
+
 <div> 
 
   <a href="https://instagram.com/tuanymariah.py" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
