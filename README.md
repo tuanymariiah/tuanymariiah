@@ -33,3 +33,9 @@ Now, I wanted to show you my personal projects and what I've been studying
 ## Projects
 ---
 
+1.[analyzing data from 120 years of olympiads](https://github.com/tuanymariiah/data_analysis/blob/main/analisando_dados_de_120_anos_de_olimpiadas.ipynb)
+
+In this project I used a database available on Kaggle and decided to extract some information about the summer olympics, detail, this database does not contain data from the olympics that took place in Tokyo.
+
+2.[Beer consumption in the city of São Paulo](https://github.com/tuanymariiah/data_analysis/blob/main/Consumo_de_cerveja.ipynb)
+The data collected to carry out this project were taken from Kaggle. In this project, in addition to the data analysis performed, I decided to predict the price of beer in the city of São Paulo using linear regression.
