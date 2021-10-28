@@ -41,8 +41,8 @@ In this project I used a database available on Kaggle and decided to extract som
 
 The data collected to carry out this project were taken from Kaggle. In this project, in addition to the data analysis performed, I decided to predict the price of beer in the city of São Paulo using linear regression.
 
-4.[](https://github.com/tuanymariiah/kcHouse)
-
+4.[House Rocket](https://github.com/tuanymariiah/kcHouse)
+Project that aims to use data from home sales to generate insights and help the business team in decision making. The project has an exploratory data analysis that seeks to answer the proposed business questions, and brings the results in a web app built with Streamlit.
 
 ## What i have studied
 5.[Web Scraping](https://github.com/tuanymariiah/webscraping)
