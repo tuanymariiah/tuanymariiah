@@ -19,6 +19,8 @@ I'll leave everything linked down here
 ### MY CURRICULUM
 ---
 Version: [Portuguese - Br](https://drive.google.com/file/d/1bD-Dpxsmm8gnCQVJ7CQXhd52uDe3tNcM/view?usp=sharing)
+Version: [English - Br](https://drive.google.com/file/d/137XOxmNKhra4TDWJPIFMApaevSzOs_09/view?usp=sharing)
+
 
 ### Analytical Tools:
 ---
