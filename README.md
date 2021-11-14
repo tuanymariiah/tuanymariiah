@@ -16,6 +16,9 @@ I'll leave everything linked down here
  <a href="https://medium.com/@tuanymariiah" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 </div>
 
+### MY CURRICULUM
+---
+Version: [Portuguese - Br](https://drive.google.com/file/d/1bD-Dpxsmm8gnCQVJ7CQXhd52uDe3tNcM/view?usp=sharing)
 
 ### Analytical Tools:
 ---
